@@ -13,7 +13,7 @@ var React=require('react');
 var Examples=(props)=>{
     return (
         <div>
-            <h1>This is Examples component</h1>
+            <h1>Welcome This is Examples component</h1>
         </div>
     )
 }
